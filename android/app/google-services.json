@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1017848058047",
+    "firebase_url": "https://test-fb-feebb-default-rtdb.firebaseio.com",
+    "project_id": "test-fb-feebb",
+    "storage_bucket": "test-fb-feebb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017848058047:android:e3a6763f28a02a2c31f60a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB91q7p37IrS5ApnXi2mXCh5X49nnCFqgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
